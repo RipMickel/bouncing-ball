@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+
+}
+#canvas {
+    position: relative;
+    margin: 17em auto;
+}
+.ball {
+    background-color: black;
+    position: absolute;
+    display: inline-block;
+    border-radius: 100%;
+
+}

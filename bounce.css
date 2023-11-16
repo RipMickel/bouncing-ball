@@ -5,6 +5,8 @@ body {
 #canvas {
     position: relative;
     margin: 17em auto;
+    background-color: #50787a;
+
 }
 .ball {
     background-color: black;
@@ -12,4 +14,7 @@ body {
     display: inline-block;
     border-radius: 100%;
 
+}
+.bb {
+    color: blue;
 }

@@ -5,6 +5,8 @@ body {
 #canvas {
     position: relative;
     margin: 17em auto;
+    background-color: #50787a;
+
 }
 .ball {
     background-color: black;
